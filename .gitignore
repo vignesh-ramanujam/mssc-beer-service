@@ -132,8 +132,7 @@ Desktop.ini
 ######################
 # Maven Wrapper
 ######################
-!.mvn/wrapper/maven-wrapper.jar
-.mvn/*
+
 
 ######################
 # ESLint
@@ -142,3 +141,4 @@ Desktop.ini
 /.idea/
 
 /.mvn/
+/target/
